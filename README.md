@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SpoonDK
 - 👀 I’m interested in learning all aspects of Full stack development
 - 🌱 I’m currently learning Front-end skills, HTML-CSS-JS
-- 💞️ I’m looking to collaborate on Projects to add to my portfolio
+- 💞️ I’m looking for tips&tricks on Projects to add to my portfolio
 
 
 <!---
